@@ -1,0 +1,10 @@
+﻿# office / OS temp
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor
+.vscode/
+.idea/
